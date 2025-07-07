@@ -3,7 +3,7 @@ How to Download and Install Epson Printer Drivers on Windows 11
 
 .. image:: get.png
    :alt: Epson Printer Drivers
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://pre.im/?5AjQgoeFAldlhdHhBr2FCsgGXp462pX9DUEozqe7mO8LGoGDlDaBZkeWCxPD0bnYQ3FTCnlJSEw2yHD3E
 
 Are you trying to set up your Epson printer on a Windows 11 computer? Whether you're using an EcoTank, WorkForce, or Expression model, the first step is installing the correct Epson printer driver. This guide walks you through the easy steps to download and install Epson printer drivers on Windows 11—with troubleshooting tips included.
 
